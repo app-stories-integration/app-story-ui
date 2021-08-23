@@ -14,7 +14,7 @@ https://i.hizliresim.com/jd034j5.gif)
 
 
 Storyly has a lightweight SDK and is easy to implement in your app.
+![STORYLY Logo](https://i.hizliresim.com/gvvbgsb.png)
 
-https://i.hizliresim.com/gvvbgsb.png
 
 To start -> https://integration.storyly.io/
