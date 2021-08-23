@@ -8,7 +8,10 @@ Storyly allows mobile applications to have in-app stories in native iOS, native 
 
 ANDROID, iOS, Flutter, React Native and Web is available.
 
-https://i.hizliresim.com/jd034j5.gif
+![STORYLY Logo](
+https://i.hizliresim.com/jd034j5.gif)
+
+
 
 Storyly has a lightweight SDK and is easy to implement in your app.
 
